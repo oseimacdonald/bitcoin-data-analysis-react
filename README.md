@@ -73,4 +73,25 @@ The application performs the following analysis steps:
 
 ---
 
+👉 **Video Link:** https://www.loom.com/share/775d2810d0f14fff9d332575800b15aa
+
 ## Project Structure
+📦src
+ ┣ 📂analysis
+ ┃ ┣ 📜movingAverage.ts
+ ┃ ┗ 📜priceChange.ts
+ ┣ 📂api
+ ┃ ┗ 📜cryptoApi.ts
+ ┣ 📂assets
+ ┃ ┗ 📜react.svg
+ ┣ 📂components
+ ┃ ┣ 📜PriceChart.tsx
+ ┃ ┗ 📜StatsPanel.tsx
+ ┣ 📂pages
+ ┃ ┗ 📜Dashboard.tsx
+ ┣ 📂types
+ ┃ ┗ 📜MarketData.ts
+ ┣ 📜App.css
+ ┣ 📜App.tsx
+ ┣ 📜index.css
+ ┗ 📜main.tsx
