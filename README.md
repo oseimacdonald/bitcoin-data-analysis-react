@@ -1,2 +1,2 @@
 # bitcoin-data-analysis-react
-Trading app cample
+React + TypeScript data analysis app for Bitcoin market trends
